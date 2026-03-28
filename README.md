@@ -8,7 +8,7 @@
 📌 Projects:
 
 - Banking Management System (Python + Tkinter)
-- 
+  
 - Portfolio Website (Html, Css + Django)
 
 📫 Contact:
